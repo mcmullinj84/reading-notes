@@ -5,10 +5,10 @@ Welcome!
 
 ---
 
-## Ops 102 - Intro to Computer Operations
+## Ops 102 - [Intro to Computer Operations](https://github.com/mcmullinj84/reading-notes/wiki/Ops-102---Readings)
 
-## Ops 201 - Foundations of Computer Operations
+## Ops 201 - [Foundations of Computer Operations](https://github.com/mcmullinj84/reading-notes/wiki/Ops-201-Readings)
 
-## Ops 301 - Networking and Systems Administration
+## Ops 301 - [Networking and Systems Administration](https://github.com/mcmullinj84/reading-notes/wiki/Ops-301-Readings)
 
-## Ops 401 - Cybersecurity Engineering
+## Ops 401 - [Cybersecurity Engineering](https://github.com/mcmullinj84/reading-notes/wiki/Ops-401-%E2%80%90-Readings)
